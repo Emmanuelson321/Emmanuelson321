@@ -9,7 +9,6 @@ I am genuinely enthusiastic about applying my skills and knowledge to make infor
  
 - 📫 How to reach me tokodetomiwa2@gmail.com
 
-- LinkedIn profile; https://www.linkedin.com/in/tomiwa-t-a8948a14b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 <!---
 Emmanuelson321/Emmanuelson321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
