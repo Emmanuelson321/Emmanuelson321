@@ -8,7 +8,7 @@ I am genuinely enthusiastic about applying my skills and knowledge to make infor
 - 💞️ I’m looking to collaborate on projects, networking, and data storytelling 
  
 - 📫 How to reach me tokodetomiwa2@gmail.com
-- [LinkedIn Profile](https://www.linkedin.com/in/tomiwa-t-a8948a14b/)
+- [LinkedIn](https://www.linkedin.com/in/tomiwa-t-a8948a14b/)
 
 <!---
 Emmanuelson321/Emmanuelson321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
